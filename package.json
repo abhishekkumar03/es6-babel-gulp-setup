@@ -6,13 +6,21 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "files": [
+    "build",
+    "src"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishekkumar03/es6-babel-gulp-setup.git"
+  },
   "keywords": [
     "es6",
     "basic",
     "setup"
   ],
-  "author": "abhishek",
-  "license": "ISC",
+  "author": "abhishek abhishekkumar20@gmail.com",
+  "license": "MIT",
   "dependencies": {
     "babel-polyfill": "^6.20.0",
     "babelify": "^7.3.0",
